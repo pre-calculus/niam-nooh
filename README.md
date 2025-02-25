@@ -28,24 +28,19 @@ More Than Just a Game Hub
 
 At the end of the day, this project is about more than just making a website; it’s about building something we’re proud of. It’s a space where we can bring together our love for coding, gaming, and creativity into one amazing platform. As we continue to work on it, we’re always thinking about how we can make it better, more enjoyable, and more accessible to everyone who loves games as much as we do. Our goal is to create something lasting, something that stands out from the rest, and something that gamers everywhere will appreciate and enjoy.
 
-**# About Me
 
-## My Life and Family
-My name is Niam, and I am 12 years old. I am currently in 6th grade, and I love learning new things, especially when it comes to coding and technology. I live with my family, which includes my mom, dad, and my older brother. My family is really important to me, and we always support each other no matter what. My brother and I have a typical sibling relationship—we get along most of the time but also have our fair share of playful arguments. Even though he is older than me, we both share some common interests, and he has influenced a lot of my hobbies. My parents are always encouraging me to follow my passions, and they are a big reason why I work hard to improve my skills and reach my goals.
 
-## My Passion for Coding
-One of my biggest interests is coding. I love being able to create things using logic and creativity, whether it's websites, games, or other cool projects. Coding gives me the freedom to build something from scratch and bring my ideas to life, which is why I enjoy it so much. I always try to learn new programming languages and techniques to expand my knowledge. Coding is not just a hobby for me; I see it as something that will always be a big part of my future. Whether I am working on a game hub or another project, I always find coding to be exciting and rewarding.
 
-## My Love for Sushi
-When it comes to food, sushi is my absolute favorite. There’s something about the combination of flavors, textures, and freshness that makes it the perfect meal for me. I enjoy trying different types of sushi, from simple rolls to more unique combinations. Whether it's sushi from a restaurant or homemade, I could eat it all the time. My love for sushi has even made me interested in learning more about Japanese culture and cuisine. Food is an important part of life, and for me, sushi is at the top of the list of things I enjoy.
 
-## My Dream Destinations
-If I could travel anywhere in the world, my top choices would be Greece and Hawaii. Greece has always fascinated me with its rich history, stunning architecture, and beautiful islands. I would love to explore ancient ruins and see the incredible landscapes in person. Hawaii, on the other hand, seems like the perfect paradise with its amazing beaches, tropical weather, and exciting outdoor activities. Both of these places are dream destinations for me, and I hope that one day I will be able to visit them and experience their beauty and culture firsthand.
 
-## School and Learning
-Being in 6th grade, I am constantly learning new things and challenging myself academically. I enjoy subjects that involve problem-solving and creativity, which is why coding fits so well with my interests. While school can sometimes be tough, I always try my best to stay ahead and keep learning. I also like working on projects outside of school because they give me the chance to explore my interests in a fun and personal way. I believe that learning doesn't just happen in the classroom—it happens every day through experiences, challenges, and curiosity.
 
-## Looking Toward the Future
-As I continue growing and learning, I have a lot of exciting things I want to accomplish. Whether it's improving my coding skills, traveling to new places, or discovering new hobbies, I always try to keep an open mind and stay motivated. My family, interests, and passions shape who I am, and I am excited to see what the future holds. No matter what happens, I know that as long as I keep pushing myself and following my dreams, I will be able to achieve great things.
 
-**
+
+
+
+
+
+About Me
+
+My name is Niam, and I am 12 years old, currently in 6th grade. I love coding because it allows me to create and bring my ideas to life, and I’m always looking for ways to expand my skills. My family—my mom, dad, and older brother—means a lot to me, and they always encourage me to follow my passions. My brother and I have our fair share of playful arguments, but we share common interests and influence each other’s hobbies. Outside of coding, one of my favorite things is sushi—I love its flavors and textures and could eat it all the time. I also dream of traveling to Greece and Hawaii someday; Greece fascinates me with its history and architecture, while Hawaii's tropical beauty and outdoor adventures seem amazing. School keeps me busy, and I enjoy subjects that challenge me, especially those that involve problem-solving. As I look toward the future, I am excited to continue learning, exploring new opportunities, and working on projects that fuel my creativity and interests.
+
